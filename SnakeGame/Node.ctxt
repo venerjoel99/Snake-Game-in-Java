@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Node
+comment1.params=row\ col
+comment1.target=Node(int,\ int)
+comment2.params=n
+comment2.target=void\ setParent(Node)
+comment3.params=
+comment3.target=Node\ getParent()
+comment4.params=
+comment4.target=void\ visit()
+comment5.params=
+comment5.target=boolean\ isVisited()
+comment6.params=cost
+comment6.target=void\ setCost(int)
+comment7.params=
+comment7.target=int\ getCost()
+numComments=8
